@@ -1,5 +1,8 @@
 # Process Overview
 
+## Time consumed
+I was able to complete the basic functionality within the provided timeframe; however, I took an extra amount of time to perform some refactoring and add tests to ensure everything is working correctly, because I firmly believe that just making working code is not enough. Implementation still has uncertainties; however, it demonstrates what was required in the PDF.
+
 ## AI Tools Utilized:
 
 I used Claude-4 to generate tests, focusing on validating critical functionality.
